@@ -17,7 +17,7 @@
               "米游币Headers获取:",
               "<h4 align=\"center\">打开米游社app，自动获取，弹出获取成功通知<a href=\"https://www.bejson.com/json/format\">JSON格式</a>修改</h4>",
               "原神签到Headers获取:",
-              "<h4 align=\"center\">打开米游社app，点击签到页面，弹出获取成功通知<a href=\"https://www.bejson.com/json/format\">JSON格式</a>修改</h4>",
+              "<h4 align=\"center\">打开米游社app，点击签到页面，弹出获取成功通知<a href=\"https://www.bejson.com/json/format\">JSON格式</a>修改</h4>"
             ],
             "scripts": [
               {
