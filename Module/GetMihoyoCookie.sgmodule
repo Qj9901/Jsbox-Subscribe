@@ -1,4 +1,4 @@
-#!url=https://github.com/Qj9901/Jsbox-Subscribe/raw/master/Module/GetMihoyoCookie.sgmodule
+#!url=https://github.com/Qj9901/Jsbox-Subscribe/raw/main/Module/GetMihoyoCookie.sgmodule
 #!name=Get米哈游Cookie
 #!desc=该模块适用于米游社获取Headers，配合JsBox订阅脚本 https://raw.githubusercontent.com/Qj9901/Jsbox-Subscribe/main/mihoyo.json 使用
 
