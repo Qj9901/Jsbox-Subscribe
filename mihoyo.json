@@ -14,8 +14,9 @@
                 "kayanouriko_mihoyobbs_headers_sign",
                 "kayanouriko_mihoyobbs_config"
             ],
-            "author": "@qj9901",
+            "author": "@Qj9901",
             "icons": [
+                "https://raw.githubusercontent.com/kayanouriko/quantumultx-mihoyobbs-auto-helper/main/assets/appicon.png",
                 "https://raw.githubusercontent.com/kayanouriko/quantumultx-mihoyobbs-auto-helper/main/assets/appicon.png"
             ],
             "descs_html": [
