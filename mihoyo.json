@@ -29,7 +29,12 @@
                 {
                     "name": "米游社签到",
                     "script": "https://raw.githubusercontent.com/kayanouriko/quantumultx-mihoyobbs-auto-helper/main/src/mihoyobbs-auto-helper.js"
+                },
+                {
+                    "name": "初始化设置",
+                    "script": "https://raw.githubusercontent.com/Qj9901/Jsbox-Subscribe/master/Scripts/mihoyo-init.js"
                 }
+
             ],
             "settings": [
                 {
