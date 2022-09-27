@@ -1,6 +1,6 @@
 {
     "id": "mihoyo.script.sub",
-    "name": "米游社脚本",
+    "name": "QJ9901 脚本订阅",
     "description": "该订阅兼容BoxJs以及QX Gallery",
     "author": "@qj9901",
     "icon": "https://avatars2.githubusercontent.com/u/48348833",
@@ -16,7 +16,7 @@
             ],
             "author": "@qj9901",
             "icons": [
-                "https://github.com/kayanouriko/quantumultx-mihoyobbs-auto-helper/raw/main/assets/appicon.png"
+                "https://raw.githubusercontent.com/kayanouriko/quantumultx-mihoyobbs-auto-helper/main/assets/appicon.png"
             ],
             "descs_html": [
                 "米游币Headers获取:",
