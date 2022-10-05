@@ -12,6 +12,129 @@
             "keys": [
                 "kayanouriko_mihoyobbs_headers_bbs",
                 "kayanouriko_mihoyobbs_headers_sign",
+                "kayanouriko_mihoyobbs_config","elmCookie"
+            ],
+            "author": "@Qj9901",
+            "icons": [
+                "https://raw.githubusercontent.com/kayanouriko/quantumultx-mihoyobbs-auto-helper/main/assets/appicon.png",
+                "https://raw.githubusercontent.com/kayanouriko/quantumultx-mihoyobbs-auto-helper/main/assets/appicon.png"
+            ],
+            "descs_html": [
+                "米游币Headers获取:",
+                "<h4 align=\"center\">打开米游社app，自动获取，弹出获取成功通知</h4>",
+                "原神签到Headers获取:",
+                "<h4 align=\"center\">打开米游社app，点击签到页面，弹出获取成功通知</h4>"
+            ],
+            "scripts": [
+                {
+                    "name": "米游社签到",
+                    "script": "https://raw.githubusercontent.com/kayanouriko/quantumultx-mihoyobbs-auto-helper/main/src/mihoyobbs-auto-helper.js"
+                },
+                {
+                    "name": "初始化设置",
+                    "script": "https://raw.githubusercontent.com/Qj9901/Jsbox-Subscribe/master/Scripts/mihoyo-init.js"
+                }
+
+            ],
+            "settings": [
+                {
+                    "id": "kayanouriko_mihoyobbs_headers_bbs",
+                    "name": "米游币任务Headers",
+                    "val": null,
+                    "type": "text",
+                    "placeholder": "bbs_headers",
+                    "desc": "必填"
+                },
+                {
+                    "id": "kayanouriko_mihoyobbs_headers_sign",
+                    "name": "原神每日签到Headers",
+                    "val": null,
+                    "type": "text",
+                    "placeholder": "mihoyobbs_sign_headers",
+                    "desc": "必填"
+                },
+                {
+                    "id": "kayanouriko_mihoyobbs_config",
+                    "name": "mihoyobbs_config",
+                    "val": "{\"tasks\": [1, 2],\"micoin\": {\"sections\": [34],\"actions\": [58, 59, 60, 61]}}",
+                    "type": "text",
+                    "placeholder": "{\"tasks\": [1, 2],\"micoin\": {\"sections\": [34],\"actions\": [58, 59, 60, 61]}}",
+                    "desc": "米游币以及签到任务配置,默认米游币+原神签到"
+                },
+{
+"id":"elmCookie",
+"name":"elmCookie",
+"Val":null,
+"Placeholder": "123",
+"desc":"wee"
+}
+            ]
+        },
+
+{
+            "id": "mihoyo",
+            "name": "米游社",
+            "keys": [
+                "kayanouriko_mihoyobbs_headers_bbs",
+                "kayanouriko_mihoyobbs_headers_sign",
+                "kayanouriko_mihoyobbs_config"
+            ],
+            "author": "@Qj9901",
+            "icons": [
+                "https://raw.githubusercontent.com/kayanouriko/quantumultx-mihoyobbs-auto-helper/main/assets/appicon.png",
+                "https://raw.githubusercontent.com/kayanouriko/quantumultx-mihoyobbs-auto-helper/main/assets/appicon.png"
+            ],
+            "descs_html": [
+                "米游币Headers获取:",
+                "<h4 align=\"center\">打开米游社app，自动获取，弹出获取成功通知</h4>",
+                "原神签到Headers获取:",
+                "<h4 align=\"center\">打开米游社app，点击签到页面，弹出获取成功通知</h4>"
+            ],
+            "scripts": [
+                {
+                    "name": "米游社签到",
+                    "script": "https://raw.githubusercontent.com/kayanouriko/quantumultx-mihoyobbs-auto-helper/main/src/mihoyobbs-auto-helper.js"
+                },
+                {
+                    "name": "初始化设置",
+                    "script": "https://raw.githubusercontent.com/Qj9901/Jsbox-Subscribe/master/Scripts/mihoyo-init.js"
+                }
+
+            ],
+            "settings": [
+                {
+                    "id": "kayanouriko_mihoyobbs_headers_bbs",
+                    "name": "米游币任务Headers",
+                    "val": null,
+                    "type": "text",
+                    "placeholder": "bbs_headers",
+                    "desc": "必填"
+                },
+                {
+                    "id": "kayanouriko_mihoyobbs_headers_sign",
+                    "name": "原神每日签到Headers",
+                    "val": null,
+                    "type": "text",
+                    "placeholder": "mihoyobbs_sign_headers",
+                    "desc": "必填"
+                },
+                {
+                    "id": "kayanouriko_mihoyobbs_config",
+                    "name": "mihoyobbs_config",
+                    "val": "{\"tasks\": [1, 2],\"micoin\": {\"sections\": [34],\"actions\": [58, 59, 60, 61]}}",
+                    "type": "text",
+                    "placeholder": "{\"tasks\": [1, 2],\"micoin\": {\"sections\": [34],\"actions\": [58, 59, 60, 61]}}",
+                    "desc": "米游币以及签到任务配置,默认米游币+原神签到"
+                }
+            ]
+        }
+
+{
+            "id": "mihoyo",
+            "name": "米游社",
+            "keys": [
+                "kayanouriko_mihoyobbs_headers_bbs",
+                "kayanouriko_mihoyobbs_headers_sign",
                 "kayanouriko_mihoyobbs_config"
             ],
             "author": "@Qj9901",
