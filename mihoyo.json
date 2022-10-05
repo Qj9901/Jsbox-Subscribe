@@ -60,14 +60,7 @@
                     "type": "text",
                     "placeholder": "{\"tasks\": [1, 2],\"micoin\": {\"sections\": [34],\"actions\": [58, 59, 60, 61]}}",
                     "desc": "米游币以及签到任务配置,默认米游币+原神签到"
-                },
-{
-"id":"elmCookie",
-"name":"elmCookie",
-"Val":null,
-"Placeholder": "123",
-"desc":"wee"
-}
+                }
             ]
         },
 
