@@ -62,13 +62,12 @@
                     "desc": "米游币以及签到任务配置,默认米游币+原神签到"
                 }
             ]
-        },
-         {
+        },{
             "id": "elm",
             "name": "饿了么",
             "keys": [
                 "elmCookie",
-                "cookie2",
+                "cookie2"
             ],
             "author": "@Qj9901",
             "icons": [
@@ -107,9 +106,9 @@
                     "desc": "必填"
                 }
             ]
-        },
-    ],
-    "task": [
+        }
+],
+    "task":[
         {
             "config": "2 0 * * * https://raw.githubusercontent.com/kayanouriko/quantumultx-mihoyobbs-auto-helper/main/src/mihoyobbs-auto-helper.js, tag=米游社小助手, img-url=https://raw.githubusercontent.com/kayanouriko/quantumultx-mihoyobbs-auto-helper/main/assets/gallery-icon.png, enabled=false",
             "addons": "https://raw.githubusercontent.com/kayanouriko/quantumultx-mihoyobbs-auto-helper/main/task/mihoyobbs.conf, tag=配置米游社小助手"
